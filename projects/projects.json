@@ -3580,6 +3580,21 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "The One Generator",
+      "thumb": "theonegenerator/thumb.png",
+      "desc": "The one generator is designed to any user in need of randomly generated data for testing cases, gaming and lottery spins.",
+      "url": "http://www.theonegenerator.com",
+      "submitter": "cainaf",
+      "submissionDate": "2014-11-17",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Local Storage", 
+        "App Engine",
+        "Generator"
+      ]
     }
 
   ]
